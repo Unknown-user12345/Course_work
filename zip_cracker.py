@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-ZIP Password Cracker - Simplified Version
-Streamlined GUI with core functionality
-"""
 
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, scrolledtext
