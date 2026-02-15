@@ -1,0 +1,25 @@
+# File Integrity Monitor (FIM) - Requirements
+# 
+# This tool uses only Python standard library modules
+# No external packages required!
+#
+# Python Version: 3.6 or higher
+#
+# Standard Library Modules Used:
+# - tkinter (GUI framework)
+# - hashlib (cryptographic hashing)
+# - os (file system operations)
+# - json (baseline storage)
+# - threading (continuous monitoring)
+# - time (interval timing)
+# - datetime (timestamps)
+# - pathlib (path operations)
+# - queue (thread-safe communication)
+#
+# Note: tkinter is included with Python on most systems
+# If tkinter is missing on Linux, install it with:
+# - Ubuntu/Debian: sudo apt-get install python3-tk
+# - Fedora: sudo dnf install python3-tkinter
+# - Arch: sudo pacman -S tk
+#
+# For macOS and Windows, tkinter is included by default with Python
